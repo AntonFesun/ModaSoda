@@ -1,0 +1,23 @@
+.designer-info {
+    margin-left: 221px;
+    background-color: $bcd;
+    overflow: hidden;
+    
+    &-image {
+        min-width: 100%;
+        width: 100%;
+        border-left: 3px solid $bcd;
+    }
+    
+    &-wrapp {
+        padding: 20px;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 30px;
+        
+        &-name {
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+    }
+}
