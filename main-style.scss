@@ -170,7 +170,6 @@ body {
     &-brend {
         margin-top: 35px;
         max-width: 1400px;
-        box-shadow: 0 0 10px inset rgba(0,0,0,1);
         
         &-name {
             font-size: $f-size*2;
@@ -185,12 +184,6 @@ body {
                 line-height: 150px;
                 text-decoration: none;
                 color: $f-color;
-                
-                &:hover {
-                    background-color: $bcd;
-                }
-                
-                
             }
             
             &-chopard {
@@ -310,8 +303,7 @@ body {
     }
 }
 
-@import 'gender';
-@import 'rims';
+@import 'men';
 
 
 
