@@ -1,0 +1,46 @@
+.expensive {
+    
+}
+
+.designer-info-wrapped-form {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: -7px;
+    
+    &-sort {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: calc(50% - 40px);
+    
+    &:hover {
+        background-color: darken($bcd, 5%);
+    }
+
+        &-button {
+            margin: 10px;
+            width: 200px;
+            line-height: 60px;
+            font-family: "Modern";
+            font-size: 18px;
+            background-color: $button-filtering;
+            color: $button-text-color;
+            border: none;
+            opacity: 0.6;
+            transition-duration: 0.6s;
+            transform: scale(1);
+            
+            &:hover {
+                opacity: 1;
+                transform: scale(1.08);
+            }
+            
+            &:active {
+                opacity: 1;
+                transform: scale(1.08);
+            }
+        }
+    }
+}

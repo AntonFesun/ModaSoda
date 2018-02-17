@@ -26,7 +26,8 @@
 .designer-info {
   margin-left: 221px;
   background-color: #F1F7E5;
-  overflow: hidden; }
+  overflow: hidden;
+  font-family: 'Modern'; }
   .designer-info-image {
     min-width: 100%;
     width: 100%;
@@ -165,7 +166,8 @@ body {
     clear: both; }
   .main-content-brend {
     margin-top: 35px;
-    max-width: 1400px; }
+    max-width: 1400px;
+    box-shadow: 0 0 10px inset black; }
     .main-content-brend-name {
       font-size: 50px;
       text-align: center;
@@ -178,6 +180,8 @@ body {
         line-height: 150px;
         text-decoration: none;
         color: #2E2B05; }
+        .main-content-brend-name-link:hover {
+          background-color: #F1F7E5; }
       .main-content-brend-name-chopard {
         font-family: "KuenstlerSchreibschriftBQ-Bold";
         font-size: 115px; }
@@ -242,5 +246,37 @@ body {
       height: 84px;
       display: block;
       margin: 30px; }
+
+.designer-info-wrapped-form {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: -7px; }
+  .designer-info-wrapped-form-sort {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: calc(50% - 40px); }
+    .designer-info-wrapped-form-sort:hover {
+      background-color: #e7f1d2; }
+    .designer-info-wrapped-form-sort-button {
+      margin: 10px;
+      width: 200px;
+      line-height: 60px;
+      font-family: "Modern";
+      font-size: 18px;
+      background-color: #6A7D44;
+      color: #32221a;
+      border: none;
+      opacity: 0.6;
+      transition-duration: 0.6s;
+      transform: scale(1); }
+      .designer-info-wrapped-form-sort-button:hover {
+        opacity: 1;
+        transform: scale(1.08); }
+      .designer-info-wrapped-form-sort-button:active {
+        opacity: 1;
+        transform: scale(1.08); }
 
 /*# sourceMappingURL=style.css.map */
