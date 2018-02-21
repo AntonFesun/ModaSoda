@@ -12,7 +12,7 @@ function loadGoods() {
     // 1. Создаём новый объект XMLHttpRequest
     var xhr = new XMLHttpRequest();
 
-    // 2. Конфигурируем его: GET-запрос на URL 'phones.json'
+    // 2. Конфигурируем его: POST-запрос на URL 'glasses.json'
     xhr.open('POST', 'glasses.json', false);
 
     // 3. Отсылаем запрос
