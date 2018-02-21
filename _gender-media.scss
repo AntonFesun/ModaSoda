@@ -1,0 +1,30 @@
+@media screen and (max-width: 732px) {
+    .designer-info {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    
+    .designer-info-wrapped-form-sort {
+        padding: 10px;
+        max-width: calc(50% - 20px);
+    }
+    
+    .designer-info-wrapped-form-sort-button {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    
+    .designer-info-wrapped-form-sort {
+        padding: 5px;
+        max-width: calc(50% - 10px);
+    }
+    
+    .designer-info-wrapped-form-sort-button {
+        font-size: 12px;
+    }
+    
+}

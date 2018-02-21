@@ -1,0 +1,61 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 228px;
+    background-color: $bcd;
+    
+    &-glasses {
+        text-decoration: none;
+        text-align: center;
+        background-color: darken($bcd, 10%);
+        margin: 20px;
+        width: calc(25% - 130px);
+        transform: scale(1);
+        transition: 0.6s;
+        
+        &:hover {
+            transform: scale(1.05);
+        }
+        
+        &-name {
+            color: $f-color;
+        }
+        
+        &-price {
+            color: $f-color;
+        }
+        
+        &-image {
+            width: 250px;
+        }
+        
+        &-description {
+            color: $f-color;
+        }
+    }
+    
+    .add-to-cart {
+        margin: 10px;
+        width: 200px;
+        line-height: 60px;
+        font-family: "Modern";
+        font-size: 18px;
+        background-color: $button-filtering;
+        color: $button-text-color;
+        border: none;
+        opacity: 0.6;
+        transition-duration: 0.6s;
+        transform: scale(1);
+        
+        &:hover {
+            opacity: 1;
+            transform: scale(1.08);
+        }
+        
+        &:active {
+            opacity: 1;
+            transform: scale(1.08);
+        }
+    }
+}

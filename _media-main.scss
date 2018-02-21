@@ -1,0 +1,223 @@
+@media screen and (max-width: 1024px) {
+    
+    .main-content {    
+        &-brend {
+            &-name {
+                &-link {
+                }
+
+                &-chopard {
+                    font-size: 100px;
+                }
+
+                &-tm {
+                    font-size: 70px;
+                }
+
+                &-am {
+                    font-size: $f-size+15;
+                }
+
+                &-ch {
+                    font-size: $f-size+15;
+                }
+
+                &-md {
+                    font-size: $f-size+15;
+
+                }
+
+                &-furla {
+                    font-size: $f-size+15;
+                }
+
+                &-lanvin {
+                    font-size: $f-size+15;
+                }
+
+                &-escada {
+                    font-size: $f-size+15;
+                }
+
+                &-bv {
+                    font-size: $f-size+15;
+                }
+
+                &-blumarine {
+                    font-size: 97px;
+                }
+
+                &-rc {
+                    font-size: $f-size+15;
+                }
+
+                &-dunhill {
+                    font-size: 95px;
+                }
+
+                &-zegna {
+                    font-size: $f-size+15;
+                }
+
+                &-trussardi {
+                    font-size: $f-size+15;
+                }
+            }
+        }   
+    }
+    
+}
+
+@media screen and (max-width: 800px) {
+    
+    .main-line-logo {
+        margin-left: 15px;
+    }
+    
+    .main-line-search {
+        margin-right: 15px;
+    }
+    
+    .bar {
+        float: none;
+        margin: 0;
+        
+        &-list {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            flex-wrap: nowrap;
+            font-size: 18px;
+            margin-bottom: 10px;
+            
+            &-elements {
+                margin-right: 22px;
+                
+                &:last-child {
+                    margin-right: 0;
+                    padding: 0;
+                }
+            }
+        }
+    }
+    
+    .main-content {
+        width: calc(100% - 20px);
+        margin: 0 auto;
+        overflow: hidden;
+        
+        &-brend {
+            margin-right: 0;
+            
+            &:first-child {
+                margin-right: 0;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 568px) {
+    
+    .main-line-search-input {
+        width: 218px;
+    }
+    
+    .bar-list-elements {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .main-line-logo {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    
+    .main-line-search {
+        float: none;
+        display: block;
+        margin: 0 auto;
+        width: 319px;
+    }
+    
+    .bar-list {
+        display: block;
+    }
+    
+        .main-content {    
+        &-brend {
+            &-name {
+                &-link {
+                }
+
+                &-chopard {
+                    font-size: 75px;
+                }
+
+                &-tm {
+                    font-size: 60px;
+                }
+
+                &-am {
+                    font-size: $f-size;
+                }
+
+                &-ch {
+                    font-size: $f-size;
+                }
+
+                &-md {
+                    font-size: $f-size;
+
+                }
+
+                &-furla {
+                    font-size: $f-size;
+                }
+
+                &-lanvin {
+                    font-size: $f-size;
+                }
+
+                &-escada {
+                    font-size: $f-size;
+                }
+
+                &-bv {
+                    font-size: $f-size;
+                }
+
+                &-blumarine {
+                    font-size: 77px;
+                }
+
+                &-rc {
+                    font-size: $f-size;
+                }
+
+                &-dunhill {
+                    font-size: 85px;
+                }
+
+                &-zegna {
+                    font-size: $f-size;
+                }
+
+                &-trussardi {
+                    font-size: $f-size;
+                }
+            }
+        }   
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .main-line-search {
+        width: 313px;
+    }
+    .main-line-search-input {
+        width: 213px;
+    }
+}

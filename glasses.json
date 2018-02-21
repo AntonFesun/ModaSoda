@@ -1,6 +1,0 @@
-var sunglass = {
-    "glassBrand" : "Chopard";
-    "glassImg" : "\glasses\sunglasses";
-    "glassPrice" : "100eu";
-    
-}
