@@ -1,25 +1,65 @@
-[{
-	"_id": {
-		"$oid": "5968dd23fc13ae04d9000001"
-	},
-	"product_name": "sildenafil citrate",
-	"supplier": "Wisozk Inc",
-	"quantity": 261,
-	"unit_cost": "$10.47"
-}, {
-	"_id": {
-		"$oid": "5968dd23fc13ae04d9000002"
-	},
-	"product_name": "Mountain Juniperus ashei",
-	"supplier": "Keebler-Hilpert",
-	"quantity": 292,
-	"unit_cost": "$8.74"
-}, {
-	"_id": {
-		"$oid": "5968dd23fc13ae04d9000003"
-	},
-	"product_name": "Dextromathorphan HBr",
-	"supplier": "Schmitt-Weissnat",
-	"quantity": 211,
-	"unit_cost": "$20.53"
-}]
+[
+    {
+      "name" : "Givenchy",
+      "id" : "vgv_a31g",
+      "type" : "оправа",
+      "sex" : "чоловічі",
+      "shape" : "квадртні",
+      "colorOfGlass" : "прозорі",
+      "colorOfFrame" : "золотий, чорний",
+      "material" : "метал, пластик",
+      "price" : "5700 UAH",
+      "descript" : "la-la-la",
+      "foto_1" : "../glasses/rims/givenchy/_IGP7709.jpg",
+      "foto_2" : "../glasses/rims/givenchy/_IGP7711.jpg",
+      "foto_3" : "_"
+    },
+
+    {
+      "name" : "Chopard",
+      "id" : "vcha97",
+      "type" : "оправа",
+      "sex" : "чоловічі",
+      "shape" : "квадратні",
+      "colorOfGlass" : "прозорі",
+      "colorOfFrame" : "золотий, чорний коричневий",
+      "material" : "метал, пластик",
+      "price" : "7300 UAH",
+      "descript" : "la-la-la",
+      "foto_1" : "../glasses/rims/chopard_1/_IGP7712.jpg",
+      "foto_2" : "../glasses/rims/chopard_1/_IGP7713.jpg",
+      "foto_3" : "_"
+    }, 
+    
+    {
+      "name" : "Chopard",
+      "id" : "vcha07",
+      "type" : "оправа",
+      "sex" : "оловічі",
+      "shape" : "квадратні",
+      "colorOfGlass" : "прозорі",
+      "colorOfFrame" : "сріблястий, чорний",
+      "material" : "метал, пластик",
+      "price" : "8450 UAH",
+      "descript" : "la-la-la",
+      "foto_1" : "../glasses/rims/chopard_2/_IGP7714.jpg",
+      "foto_2" : "../glasses/rims/chopard_2/_IGP7715.jpg",
+      "foto_3" : "_"
+    },
+
+    {
+      "name" : "Chopard",
+      "id" : "vcha27",
+      "type" : "оправа",
+      "sex" : "оловічі",
+      "shape" : "квадратні",
+      "colorOfGlass" : "прозорі",
+      "colorOfFrame" : "сріблястий, чорний",
+      "material" : "метал, пластик",
+      "price" : "8450 UAH",
+      "descript" : "la-la-la",
+      "foto_1" : "../glasses/rims/chopard_3/_IGP7716.jpg",
+      "foto_2" : "../glasses/rims/chopard_3/_IGP7717.jpg",
+      "foto_3" : "_"
+    }
+]
