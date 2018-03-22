@@ -1,0 +1,83 @@
+#jsonItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-family: $f-stack;
+    .add-to-cart {
+        margin: 10px;
+        width: 200px;
+        line-height: 60px;
+        font-family: "Modern";
+        font-size: 18px;
+        background-color: $button-filtering;
+        color: $button-text-color;
+        border: none;
+        opacity: 0.6;
+        transition-duration: 0.6s;
+        transform: scale(1);
+        
+        &:hover {
+            opacity: 1;
+            transform: scale(1.08);
+        }
+        
+        &:active {
+            opacity: 1;
+            transform: scale(1.08);
+        }
+    }
+}
+
+.items-glasses {
+    text-decoration: none;
+    background-color: #dcebbe;
+    margin: 7px;
+    opacity: 0.8;
+    transition: 0.6s;
+    border: 3px solid #dcebbe;
+    max-width: 200px;
+    cursor: pointer;
+
+    &-id {
+        font-size: 17px;
+        margin: auto;
+    }
+
+    &:hover {
+        opacity: 1;
+    }
+
+    &-name {
+        color: $f-color;
+        font-size: 17px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+        text-align: center;
+    }
+
+    &-price {
+        color: $f-color;
+        font-size: 16px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+        text-align: left;
+    }
+
+    &-image {
+        width: 200px;
+    }
+
+    &-description {
+        color: $f-color;
+        text-align: left;
+        font-size: 20px;
+        margin: auto;
+    }
+}
+
+.highlight {
+  background-color: red;
+}

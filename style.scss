@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', "sans-serif";
+}
+
+.header {
+  width: 100%;
+
+  &-container {
+    max-width: 1600px;
+    margin: 0 auto;
+
+    &::after {
+      content: '';
+      display: table;
+      clear: both;
+    }
+
+    &-text {
+      float: left;
+      width: 430px;
+      margin-top: 124px;
+      margin-left: 178px;
+
+      &-company-name {
+        color: #000000;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 45px;
+        text-align: left;
+        margin-bottom: 43px;
+
+        &::after {
+
+        }
+      }
+
+      &-describe {
+        color: #000000;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 45px;
+        text-align: left;
+      }
+
+      &-list {
+        width: 388px;
+        margin-top: 36px;
+
+        &-element {
+          list-style: none;
+          color: #333333;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 26px;
+          text-align: left;
+          margin-bottom: 70px;
+
+          &:last-child {
+            margin-bottom:0;
+          }
+          
+          &::after {
+            content: '';
+            display: table;
+            clear: both;
+          }
+          
+          img {
+            float: left;
+            margin-right: 33px;
+          }
+        }
+      }
+    }
+  }
+}

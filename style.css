@@ -289,30 +289,15 @@ body {
         opacity: 1;
         transform: scale(1.08); }
 
-.items {
+#jsonItems {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-left: 325px;
-  background-color: #F1F7E5; }
-  .items-glasses {
-    text-decoration: none;
-    text-align: center;
-    background-color: #dcebbe;
-    margin: 20px;
-    transform: scale(1);
-    transition: 0.6s; }
-    .items-glasses:hover {
-      transform: scale(1.05); }
-    .items-glasses-name {
-      color: #2E2B05; }
-    .items-glasses-price {
-      color: #2E2B05; }
-    .items-glasses-image {
-      width: 200px; }
-    .items-glasses-description {
-      color: #2E2B05; }
-  .items .add-to-cart {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  font-family: "PT Sans Narrow", sans-serif; }
+  #jsonItems .add-to-cart {
     margin: 10px;
     width: 200px;
     line-height: 60px;
@@ -324,12 +309,49 @@ body {
     opacity: 0.6;
     transition-duration: 0.6s;
     transform: scale(1); }
-    .items .add-to-cart:hover {
+    #jsonItems .add-to-cart:hover {
       opacity: 1;
       transform: scale(1.08); }
-    .items .add-to-cart:active {
+    #jsonItems .add-to-cart:active {
       opacity: 1;
       transform: scale(1.08); }
+
+.items-glasses {
+  text-decoration: none;
+  background-color: #dcebbe;
+  margin: 7px;
+  opacity: 0.8;
+  transition: 0.6s;
+  border: 3px solid #dcebbe;
+  max-width: 200px;
+  cursor: pointer; }
+  .items-glasses-id {
+    font-size: 17px;
+    margin: auto; }
+  .items-glasses:hover {
+    opacity: 1; }
+  .items-glasses-name {
+    color: #2E2B05;
+    font-size: 17px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center; }
+  .items-glasses-price {
+    color: #2E2B05;
+    font-size: 16px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: left; }
+  .items-glasses-image {
+    width: 200px; }
+  .items-glasses-description {
+    color: #2E2B05;
+    text-align: left;
+    font-size: 20px;
+    margin: auto; }
+
+.highlight {
+  background-color: red; }
 
 @media screen and (max-width: 1024px) {
   .main-content-brend-name-chopard {
@@ -464,5 +486,27 @@ body {
 
   .designer-info-wrapped-form-sort-button {
     font-size: 12px; } }
+@media screen and (max-width: 800px) {
+  .designer-info {
+    margin: 0 auto; }
+
+  #jsonItems {
+    margin: 0 auto; }
+
+  .items-glasses {
+    max-width: 220px;
+    margin: 9px; } }
+@media screen and (max-width: 736px) {
+  .items-glasses {
+    max-width: 204px; } }
+@media screen and (max-width: 640px) {
+  .items-glasses {
+    margin: 5px 3px; } }
+@media screen and (max-width: 568px) {
+  #jsonItems {
+    justify-content: space-around; } }
+@media screen and (max-width: 414px) {
+  #jsonItems {
+    justify-content: space-around; } }
 
 /*# sourceMappingURL=style.css.map */
