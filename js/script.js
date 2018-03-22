@@ -16,7 +16,7 @@ function loadGoods() {
     var xhr = new XMLHttpRequest();
 
     // 2. Конфигурируем его: POST-запрос на URL 'glasses.json'
-    xhr.open('POST', 'glasses.json', false);
+    xhr.open('GET', 'glasses.json', false);
 
     // 3. Отсылаем запрос
     xhr.send();
@@ -28,6 +28,7 @@ function loadGoods() {
 //        console.log(`type of response: ${typeof xhr.response} ${xhr.response}`);
 
         base = JSON.parse(xhr.response);
+
     var doc = document;
 
 
