@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/glasses.json" afterPath="$PROJECT_DIR$/pages/glasses.json" />
-    </list>
+    <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/glasses.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="515">
               <caret line="1748" column="20" lean-forward="true" selection-start-line="1748" selection-start-column="20" selection-end-line="1748" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alexanderMcQueen.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/alexanderMcQueen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -408,7 +416,7 @@
       <workItem from="1519500774202" duration="44737000" />
       <workItem from="1519763619684" duration="643000" />
       <workItem from="1519765313946" duration="2908000" />
-      <workItem from="1521720769946" duration="2850000" />
+      <workItem from="1521720769946" duration="3661000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/AntonFesun/ModaSoda&#10;&#10;# Conflicts:&#10;#&#9;js/script.js">
       <created>1519764245789</created>
@@ -428,7 +436,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59080000" />
+    <option name="totallyTimeSpent" value="59891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -717,14 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/alexanderMcQueen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/all_sunglasses.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -947,6 +947,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="1748" column="20" lean-forward="true" selection-start-line="1748" selection-start-column="20" selection-end-line="1748" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/alexanderMcQueen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding />
         </state>
       </provider>
