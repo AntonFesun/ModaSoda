@@ -12,8 +12,8 @@
     "material" : "metal, acetate",
     "price" : "2300 UAH",
     "descript" : "la-la-la",
-    "foto_1" : "/ModaSoda/glasses/rims/givenchy/_IGP7709.jpg",
-    "foto_2" : "../glasses/rims/givenchy/_IGP7711.jpg",
+    "foto_1" : "ModaSoda/glasses/rims/givenchy/_IGP7709.jpg",
+    "foto_2" : "/ModaSoda/glasses/rims/givenchy/_IGP7711.jpg",
     "foto_3" : "_",
     "quantity" : "1"
   },
