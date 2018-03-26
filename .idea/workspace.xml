@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/alexanderMcQueen.html" afterPath="$PROJECT_DIR$/pages/alexanderMcQueen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/allSunglasses.html" afterPath="$PROJECT_DIR$/pages/allSunglasses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/blumarine.html" afterPath="$PROJECT_DIR$/pages/blumarine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/bottegaVeneta.html" afterPath="$PROJECT_DIR$/pages/bottegaVeneta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/carolinaHerrera.html" afterPath="$PROJECT_DIR$/pages/carolinaHerrera.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/chopard.html" afterPath="$PROJECT_DIR$/pages/chopard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/dunhill.html" afterPath="$PROJECT_DIR$/pages/dunhill.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/escada.html" afterPath="$PROJECT_DIR$/pages/escada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/furla.html" afterPath="$PROJECT_DIR$/pages/furla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/lanvin.html" afterPath="$PROJECT_DIR$/pages/lanvin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/men.html" afterPath="$PROJECT_DIR$/pages/men.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/momoDesign.html" afterPath="$PROJECT_DIR$/pages/momoDesign.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/rims.html" afterPath="$PROJECT_DIR$/pages/rims.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/robertoCavalli.html" afterPath="$PROJECT_DIR$/pages/robertoCavalli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tomFord.html" afterPath="$PROJECT_DIR$/pages/tomFord.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/trussardi.html" afterPath="$PROJECT_DIR$/pages/trussardi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/women.html" afterPath="$PROJECT_DIR$/pages/women.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/zegna.html" afterPath="$PROJECT_DIR$/pages/zegna.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/glasses.json" afterPath="$PROJECT_DIR$/pages/glasses.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/pages/men.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+              <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -68,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/pages/momoDesign.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+              <caret line="36" column="79" lean-forward="false" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -78,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/pages/rims.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+              <caret line="36" column="79" lean-forward="false" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -88,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/pages/robertoCavalli.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+              <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -98,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+              <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -124,21 +106,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zegna.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zegna.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/zegna.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
-              <caret line="39" column="97" lean-forward="true" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
+              <caret line="39" column="97" lean-forward="false" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/glasses.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
+            <state relative-caret-position="762">
+              <caret line="484" column="53" lean-forward="false" selection-start-line="484" selection-start-column="53" selection-end-line="484" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -163,7 +145,6 @@
         <option value="$PROJECT_DIR$/designers/chopard.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/pages/all_sunglasses.html" />
-        <option value="$PROJECT_DIR$/pages/glasses.json" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/alexanderMcQueen.html" />
         <option value="$PROJECT_DIR$/pages/allSunglasses.html" />
@@ -183,6 +164,7 @@
         <option value="$PROJECT_DIR$/pages/trussardi.html" />
         <option value="$PROJECT_DIR$/pages/women.html" />
         <option value="$PROJECT_DIR$/pages/zegna.html" />
+        <option value="$PROJECT_DIR$/pages/glasses.json" />
       </list>
     </option>
   </component>
@@ -359,7 +341,7 @@
       <workItem from="1519763619684" duration="643000" />
       <workItem from="1519765313946" duration="2908000" />
       <workItem from="1521720769946" duration="3977000" />
-      <workItem from="1522063675713" duration="3444000" />
+      <workItem from="1522063675713" duration="3907000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/AntonFesun/ModaSoda&#10;&#10;# Conflicts:&#10;#&#9;js/script.js">
       <created>1519764245789</created>
@@ -379,7 +361,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63651000" />
+    <option name="totallyTimeSpent" value="64114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,8 +374,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28988528" sideWeight="0.5040563" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -735,14 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/glasses.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/lanvin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -754,7 +729,7 @@
     <entry file="file://$PROJECT_DIR$/pages/men.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
-          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -762,7 +737,7 @@
     <entry file="file://$PROJECT_DIR$/pages/momoDesign.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+          <caret line="36" column="79" lean-forward="false" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -770,7 +745,7 @@
     <entry file="file://$PROJECT_DIR$/pages/rims.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+          <caret line="36" column="79" lean-forward="false" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -778,7 +753,7 @@
     <entry file="file://$PROJECT_DIR$/pages/robertoCavalli.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
-          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -786,7 +761,7 @@
     <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
-          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -810,7 +785,15 @@
     <entry file="file://$PROJECT_DIR$/pages/zegna.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="39" column="97" lean-forward="true" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
+          <caret line="39" column="97" lean-forward="false" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/glasses.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="484" column="53" lean-forward="false" selection-start-line="484" selection-start-column="53" selection-end-line="484" selection-end-column="53" />
           <folding />
         </state>
       </provider>
