@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="" />
+    <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7516.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7517.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7518.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7520.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7523.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7524.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7525.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7526.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7527.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7528.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7529.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7536.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7537.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7538.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7540.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7541.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7542.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7543.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7544.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7546.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7548.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7549.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7551.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7552.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7553.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7554.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7507.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7508.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7509.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7510.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7517.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7518.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7520.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7523.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7524.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7525.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7526.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7527.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7528.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7529.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7536.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7537.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7538.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7541.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7542.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7543.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7544.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7545.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7546.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7548.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7549.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7550.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7551.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7552.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7553.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7554.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/IGP7555.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/IGP7507.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/IGP7508.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/IGP7509.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/IGP7510.jpg" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +126,8 @@
       <file leaf-file-name="glasses.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/glasses.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3128">
-              <caret line="359" column="20" lean-forward="false" selection-start-line="359" selection-start-column="20" selection-end-line="359" selection-end-column="20" />
+            <state relative-caret-position="1241">
+              <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -214,6 +283,24 @@
               <option name="myItemId" value="glasses" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunglasses" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModaSoda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModaSoda" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="glasses" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -346,7 +433,7 @@
       <workItem from="1519763619684" duration="643000" />
       <workItem from="1519765313946" duration="2908000" />
       <workItem from="1521720769946" duration="3977000" />
-      <workItem from="1522063675713" duration="2081000" />
+      <workItem from="1522063675713" duration="2386000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/AntonFesun/ModaSoda&#10;&#10;# Conflicts:&#10;#&#9;js/script.js">
       <created>1519764245789</created>
@@ -366,7 +453,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62288000" />
+    <option name="totallyTimeSpent" value="62593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,12 +466,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28988528" sideWeight="0.5040563" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27193934" sideWeight="0.49594375" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -396,7 +483,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -778,8 +864,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/glasses.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3128">
-          <caret line="359" column="20" lean-forward="false" selection-start-line="359" selection-start-column="20" selection-end-line="359" selection-end-column="20" />
+        <state relative-caret-position="1241">
+          <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
           <folding />
         </state>
       </provider>
