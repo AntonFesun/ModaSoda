@@ -2,25 +2,230 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/alexanderMcQueen.html" afterPath="$PROJECT_DIR$/pages/alexanderMcQueen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/all_sunglasses.html" afterPath="$PROJECT_DIR$/pages/all_sunglasses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/blumarine.html" afterPath="$PROJECT_DIR$/pages/blumarine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/bottegaVeneta.html" afterPath="$PROJECT_DIR$/pages/bottegaVeneta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/carolinaHerrera.html" afterPath="$PROJECT_DIR$/pages/carolinaHerrera.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/chopard.html" afterPath="$PROJECT_DIR$/pages/chopard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/dunhill.html" afterPath="$PROJECT_DIR$/pages/dunhill.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/escada.html" afterPath="$PROJECT_DIR$/pages/escada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/furla.html" afterPath="$PROJECT_DIR$/pages/furla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/lanvin.html" afterPath="$PROJECT_DIR$/pages/lanvin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/men.html" afterPath="$PROJECT_DIR$/pages/men.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/momoDesign.html" afterPath="$PROJECT_DIR$/pages/momoDesign.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/rims.html" afterPath="$PROJECT_DIR$/pages/rims.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/robertoCavalli.html" afterPath="$PROJECT_DIR$/pages/robertoCavalli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tomFord.html" afterPath="$PROJECT_DIR$/pages/tomFord.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/trussardi.html" afterPath="$PROJECT_DIR$/pages/trussardi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/women.html" afterPath="$PROJECT_DIR$/pages/women.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/zegna.html" afterPath="$PROJECT_DIR$/pages/zegna.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_1/_IGP7712.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_1/_IGP7713.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_2/_IGP7714.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_2/_IGP7715.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_3/_IGP7716.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_3/_IGP7717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/givenchy/_IGP7709.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/givenchy/_IGP7711.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7456.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7462.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7464.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7466.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7467.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7468.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7473.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7474.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7475.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7476.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7477.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7478.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7479.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7480.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7481.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7482.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7483.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7486.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7488.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7489.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7490.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7491.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7492.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7493.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7494.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7495.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7496.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7497.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7499.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7503.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7504.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7505.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7506.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7517.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7518.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7520.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7523.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7524.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7525.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7526.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7527.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7528.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7529.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7536.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7537.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7538.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7541.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7542.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7543.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7544.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7545.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7546.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7548.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7549.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7550.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7551.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7552.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7553.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7554.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7555.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7507.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7508.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7509.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7510.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/RC/_IGP7512.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/RC/_IGP7513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/RC/_IGP7514.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7631.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7633.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7634.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7636.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7637.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7638.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7639.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7640.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7641.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7642.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7644.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7645.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7646.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7648.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7649.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7651.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7652.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7654.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7655.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7656.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7657.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7556.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7558.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7561.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7562.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7563.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7564.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7565.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7566.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7567.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7568.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7575.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7577.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7578.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7579.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7580.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7581.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7582.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7583.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7588.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7589.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7590.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7591.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7592.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7593.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7674.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7675.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7676.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7677.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7678.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7679.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7680.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7681.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7682.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7684.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7685.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7687.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7689.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7690.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7691.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7692.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7693.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7695.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7614.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7615.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7616.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7617.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7618.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7620.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7696.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7698.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7699.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7700.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7701.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7702.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7703.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7704.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7705.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7706.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7707.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7708.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7621.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7622.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7623.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7624.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7625.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7626.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7627.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7628.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7629.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7630.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7425.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7429.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7433.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7435.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7437.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7438.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7439.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7440.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7441.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7442.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7443.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7444.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7446.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7594.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7596.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7597.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7598.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7601.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7602.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7603.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7605.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7606.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7607.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7608.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7609.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7610.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7611.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7612.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7613.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7658.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7659.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7660.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7662.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7663.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7664.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7665.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7666.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7667.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7668.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7669.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7670.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7672.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7673.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7449.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7451.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7452.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7455.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7471.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7472.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/glasses.json" afterPath="$PROJECT_DIR$/pages/glasses.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/all_sunglasses.html" afterPath="$PROJECT_DIR$/pages/allSunglasses.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,61 +249,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="17">
               <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lanvin.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/lanvin.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="men.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/men.html">
+      <file leaf-file-name="allSunglasses.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/allSunglasses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="442">
+              <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="momoDesign.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/momoDesign.html">
+      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/glasses.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rims.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/rims.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="robertoCavalli.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/robertoCavalli.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,7 +292,7 @@
       <file leaf-file-name="tomFord.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="102">
               <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding />
             </state>
@@ -162,9 +347,7 @@
         <option value="$PROJECT_DIR$/other/rims.html" />
         <option value="$PROJECT_DIR$/designers/chopard.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/pages/glasses.json" />
         <option value="$PROJECT_DIR$/pages/alexanderMcQueen.html" />
-        <option value="$PROJECT_DIR$/pages/all_sunglasses.html" />
         <option value="$PROJECT_DIR$/pages/blumarine.html" />
         <option value="$PROJECT_DIR$/pages/bottegaVeneta.html" />
         <option value="$PROJECT_DIR$/pages/carolinaHerrera.html" />
@@ -182,6 +365,8 @@
         <option value="$PROJECT_DIR$/pages/women.html" />
         <option value="$PROJECT_DIR$/pages/zegna.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/all_sunglasses.html" />
+        <option value="$PROJECT_DIR$/pages/glasses.json" />
       </list>
     </option>
   </component>
@@ -237,35 +422,21 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModaSoda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModaSoda" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="glasses" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,6 +571,7 @@
       <workItem from="1519763619684" duration="643000" />
       <workItem from="1519765313946" duration="2908000" />
       <workItem from="1521720769946" duration="3977000" />
+      <workItem from="1522063675713" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/AntonFesun/ModaSoda&#10;&#10;# Conflicts:&#10;#&#9;js/script.js">
       <created>1519764245789</created>
@@ -419,7 +591,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60207000" />
+    <option name="totallyTimeSpent" value="61883000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,16 +606,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13965885" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28988528" sideWeight="0.5040563" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27193934" sideWeight="0.49594375" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -472,37 +644,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/other/glasses.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/all_sunglasses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/rims.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="57" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_rims.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#706#1223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="72" column="28" lean-forward="true" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="45" lean-forward="false" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="45" lean-forward="true" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,9 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#706#1223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,31 +798,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender/men.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="43" lean-forward="false" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender/women.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender/men.html" />
+    <entry file="file://$PROJECT_DIR$/gender/women.html" />
     <entry file="file://$PROJECT_DIR$/other/rims.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="54" column="69" lean-forward="false" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,27 +828,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/glasses.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="1748" column="20" lean-forward="true" selection-start-line="1748" selection-start-column="20" selection-end-line="1748" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/alexanderMcQueen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/all_sunglasses.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
@@ -806,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/men.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding />
         </state>
@@ -838,7 +937,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding />
         </state>
@@ -870,8 +969,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="17">
           <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/allSunglasses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glasses/rims/chopard1/_IGP7712.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glasses/rims/chopard1/_IGP7713.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/glasses.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
