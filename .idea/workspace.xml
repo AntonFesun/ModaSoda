@@ -1,232 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_1/_IGP7712.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_1/_IGP7713.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_2/_IGP7714.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_2/_IGP7715.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_3/_IGP7716.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/chopard_3/_IGP7717.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/givenchy/_IGP7709.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/rims/givenchy/_IGP7711.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7456.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7462.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7464.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7466.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7467.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7468.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7473.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7474.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7475.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7476.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7477.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7478.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7479.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7480.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7481.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7482.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7483.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7486.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7488.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7489.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7490.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7491.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7492.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7493.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7494.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7495.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7496.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7497.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7499.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7503.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7504.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7505.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/AMCQ/_IGP7506.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7515.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7516.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7517.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7518.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7520.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7523.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7524.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7525.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7526.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7527.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7528.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7529.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7536.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7537.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7538.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7540.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7541.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7542.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7543.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7544.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7545.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7546.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7548.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7549.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7550.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7551.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7552.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7553.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7554.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Chopard/_IGP7555.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7507.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7508.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7509.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/Lanvin/_IGP7510.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/RC/_IGP7512.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/RC/_IGP7513.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/RC/_IGP7514.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7631.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7633.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7634.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7635.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7636.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7637.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7638.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7639.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7640.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7641.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7644.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7645.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7646.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7648.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7649.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7651.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7652.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7654.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7655.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7656.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/blumarine/_IGP7657.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7556.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7558.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7561.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7562.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7563.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7564.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7565.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7566.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7567.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7568.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7575.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7577.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7578.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7579.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7580.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7581.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7582.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7583.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7588.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7589.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7590.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7591.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7592.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/bottega veneta/_IGP7593.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7674.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7675.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7676.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7677.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7678.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7679.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7680.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7681.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7684.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7685.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7687.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7689.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7690.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7691.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7692.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7693.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/carolina herrera/_IGP7695.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7614.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7615.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7616.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7617.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7618.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/dunhill/_IGP7620.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7696.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7698.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7699.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7700.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7701.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7702.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7703.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7704.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7705.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7706.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7707.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/escada/_IGP7708.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7621.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7622.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7623.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7624.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7625.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7626.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7627.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7628.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7629.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/furla/_IGP7630.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7425.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7429.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7433.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7435.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7438.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7439.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7440.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7441.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7442.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7443.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7444.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/momodesign/_IGP7446.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7594.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7596.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7597.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7598.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7599.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7601.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7602.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7603.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7605.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7606.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7607.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7608.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7609.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7610.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7611.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7612.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7613.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7658.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7659.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7660.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7662.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7663.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7664.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7665.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7666.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7667.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7668.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7669.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7670.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7672.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/trussardi/_IGP7673.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7449.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7451.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7452.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7455.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7471.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/glasses/sunglasses/zegna/_IGP7472.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/glasses.json" afterPath="$PROJECT_DIR$/pages/glasses.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/all_sunglasses.html" afterPath="$PROJECT_DIR$/pages/allSunglasses.html" />
-    </list>
+    <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -282,8 +57,8 @@
       <file leaf-file-name="glasses.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/glasses.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="-3128">
+              <caret line="359" column="20" lean-forward="false" selection-start-line="359" selection-start-column="20" selection-end-line="359" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -571,7 +346,7 @@
       <workItem from="1519763619684" duration="643000" />
       <workItem from="1519765313946" duration="2908000" />
       <workItem from="1521720769946" duration="3977000" />
-      <workItem from="1522063675713" duration="1676000" />
+      <workItem from="1522063675713" duration="2081000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/AntonFesun/ModaSoda&#10;&#10;# Conflicts:&#10;#&#9;js/script.js">
       <created>1519764245789</created>
@@ -591,7 +366,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61883000" />
+    <option name="totallyTimeSpent" value="62288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1003,8 +778,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/glasses.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="-3128">
+          <caret line="359" column="20" lean-forward="false" selection-start-line="359" selection-start-column="20" selection-end-line="359" selection-end-column="20" />
           <folding />
         </state>
       </provider>
