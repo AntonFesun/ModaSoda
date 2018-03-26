@@ -2,41 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b793938-e60f-4cd8-887b-7634267d5e51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7515.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7515.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7516.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7516.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7517.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7517.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7518.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7518.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7520.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7520.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7523.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7523.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7524.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7524.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7525.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7525.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7526.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7526.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7527.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7527.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7528.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7528.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7529.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7529.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7536.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7536.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7537.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7537.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7538.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7538.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7540.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7540.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7541.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7541.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7542.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7542.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7543.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7543.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7544.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7544.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7545.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7545.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7546.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7546.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7548.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7548.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7549.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7549.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7550.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7550.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7551.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7551.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7552.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7552.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7553.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7553.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7554.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7554.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/chop/IGP7555.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/chopard/IGP7555.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7507.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/lanvin/IGP7507.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7508.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/lanvin/IGP7508.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7509.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/lanvin/IGP7509.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/glasses/sunglasses/lan/IGP7510.jpg" afterPath="$PROJECT_DIR$/glasses/sunglasses/lanvin/IGP7510.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/alexanderMcQueen.html" afterPath="$PROJECT_DIR$/pages/alexanderMcQueen.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/allSunglasses.html" afterPath="$PROJECT_DIR$/pages/allSunglasses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/blumarine.html" afterPath="$PROJECT_DIR$/pages/blumarine.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/bottegaVeneta.html" afterPath="$PROJECT_DIR$/pages/bottegaVeneta.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/carolinaHerrera.html" afterPath="$PROJECT_DIR$/pages/carolinaHerrera.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/chopard.html" afterPath="$PROJECT_DIR$/pages/chopard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/dunhill.html" afterPath="$PROJECT_DIR$/pages/dunhill.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/escada.html" afterPath="$PROJECT_DIR$/pages/escada.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/furla.html" afterPath="$PROJECT_DIR$/pages/furla.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/lanvin.html" afterPath="$PROJECT_DIR$/pages/lanvin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/men.html" afterPath="$PROJECT_DIR$/pages/men.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/momoDesign.html" afterPath="$PROJECT_DIR$/pages/momoDesign.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/rims.html" afterPath="$PROJECT_DIR$/pages/rims.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/robertoCavalli.html" afterPath="$PROJECT_DIR$/pages/robertoCavalli.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tomFord.html" afterPath="$PROJECT_DIR$/pages/tomFord.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/trussardi.html" afterPath="$PROJECT_DIR$/pages/trussardi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/women.html" afterPath="$PROJECT_DIR$/pages/women.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/zegna.html" afterPath="$PROJECT_DIR$/pages/zegna.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,41 +44,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="lanvin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/lanvin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="595">
+              <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop/index.html">
+      <file leaf-file-name="men.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/men.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="595">
+              <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="allSunglasses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/allSunglasses.html">
+      <file leaf-file-name="momoDesign.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/momoDesign.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="612">
+              <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/glasses.json">
+      <file leaf-file-name="rims.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/rims.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
+            <state relative-caret-position="612">
+              <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robertoCavalli.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/robertoCavalli.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -103,8 +97,8 @@
       <file leaf-file-name="tomFord.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="595">
+              <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -113,8 +107,8 @@
       <file leaf-file-name="trussardi.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/trussardi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="595">
+              <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -123,18 +117,28 @@
       <file leaf-file-name="women.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/women.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="595">
+              <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zegna.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="zegna.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/zegna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="663">
+              <caret line="39" column="97" lean-forward="true" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glasses.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/glasses.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -158,7 +162,11 @@
         <option value="$PROJECT_DIR$/other/rims.html" />
         <option value="$PROJECT_DIR$/designers/chopard.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/pages/all_sunglasses.html" />
+        <option value="$PROJECT_DIR$/pages/glasses.json" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/alexanderMcQueen.html" />
+        <option value="$PROJECT_DIR$/pages/allSunglasses.html" />
         <option value="$PROJECT_DIR$/pages/blumarine.html" />
         <option value="$PROJECT_DIR$/pages/bottegaVeneta.html" />
         <option value="$PROJECT_DIR$/pages/carolinaHerrera.html" />
@@ -175,9 +183,6 @@
         <option value="$PROJECT_DIR$/pages/trussardi.html" />
         <option value="$PROJECT_DIR$/pages/women.html" />
         <option value="$PROJECT_DIR$/pages/zegna.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/pages/all_sunglasses.html" />
-        <option value="$PROJECT_DIR$/pages/glasses.json" />
       </list>
     </option>
   </component>
@@ -220,52 +225,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glasses" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sunglasses" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModaSoda" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glasses" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,7 +359,7 @@
       <workItem from="1519763619684" duration="643000" />
       <workItem from="1519765313946" duration="2908000" />
       <workItem from="1521720769946" duration="3977000" />
-      <workItem from="1522063675713" duration="2502000" />
+      <workItem from="1522063675713" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/AntonFesun/ModaSoda&#10;&#10;# Conflicts:&#10;#&#9;js/script.js">
       <created>1519764245789</created>
@@ -420,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62709000" />
+    <option name="totallyTimeSpent" value="63651000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,7 +391,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -452,6 +411,25 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28988528" sideWeight="0.5040563" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27193934" sideWeight="0.49594375" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.141258" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -659,166 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/alexanderMcQueen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/blumarine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/bottegaVeneta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/carolinaHerrera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/chopard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/dunhill.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/escada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/furla.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/lanvin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/men.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/momoDesign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/rims.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/robertoCavalli.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/trussardi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/women.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/zegna.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/allSunglasses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/glasses/rims/chopard1/_IGP7712.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -829,10 +647,170 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="41" column="15" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/alexanderMcQueen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/allSunglasses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/blumarine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/bottegaVeneta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/carolinaHerrera.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/chopard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/dunhill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/escada.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/furla.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/glasses.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
+        <state relative-caret-position="864">
           <caret line="568" column="21" lean-forward="true" selection-start-line="568" selection-start-column="21" selection-end-line="568" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/lanvin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/men.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/momoDesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/rims.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/robertoCavalli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tomFord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="true" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/trussardi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/women.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/zegna.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="97" lean-forward="true" selection-start-line="39" selection-start-column="97" selection-end-line="39" selection-end-column="97" />
           <folding />
         </state>
       </provider>
